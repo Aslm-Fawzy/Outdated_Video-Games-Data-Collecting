@@ -5,10 +5,10 @@ In website we've old video games and categories for video games as Xbox 360 , Pl
 
 ## Steps of collecting this data :
 >
-   1.   Collecting Games Data for any category that've only one web page 
-   2.   Collecting Games Data for any category that've many web page
-   3.   Collecting Games Data for all Categories in the website
-   4.   Saving this Data in csv file (Video Games.csv)
+    1.   Collecting Games Data for any category that've only one web page 
+    2.   Collecting Games Data for any category that've many web page
+    3.   Collecting Games Data for all Categories in the website
+    4.   Saving this Data in csv file (Video Games.csv)
  
 ## Columns in csv file :
 >
