@@ -22,6 +22,6 @@ In website we've old video games and categories for video games as Xbox 360 , Pl
     10. Weight : Video Game Weight in lbs
     11. Cover_image : Cover Image Link of the game (Image in website)
 
-### Note   : **Run This Project When You're Connected to Internet**  
+#### Note   : **Run This Project When You're Connected to Internet**  
 
 ![image](https://user-images.githubusercontent.com/78029611/191992363-2540777b-4110-494f-9bd0-17b67bb763b5.png)
