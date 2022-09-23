@@ -1,4 +1,4 @@
-# Outdated Video Games Data Collecting
+# Outdated Video Games Scrapping 🎮
 Scraping all games data from https://www.bookstores.com/ including name , price , platform , weight , cover_link and category of game and saving this data in csv file (Video Games.csv) .
  I used many libraries in this project as BeautifulSoup for collecting data and selenium for automate switching between web pages.
 In website we've old video games and categories for video games as Xbox 360 , Play Station 3 , Sony PSP and PC.
@@ -21,3 +21,5 @@ In website we've old video games and categories for video games as Xbox 360 , Pl
 9. Dimensions : Width x Height of game 
 10. Weight : Video Game Weight in lbs
 11. Cover_image : Cover Image Link of the game (Image in website)
+
+#### Note   : **Run This Project When You're Connected to Internet**  
