@@ -3,13 +3,14 @@ Scraping all games data from https://www.bookstores.com/ including name , price 
  I used many libraries in this project as BeautifulSoup for collecting data and selenium for automate switching between web pages.
 In website we've old video games and categories for video games as Xbox 360 , Play Station 3 , Sony PSP and PC.
 
-### Steps of collecting this data :
- 1.   Collecting Games Data for any category that've only one web page 
- 2.   Collecting Games Data for any category that've many web page
- 3.   Collecting Games Data for all Categories in the website
- 4.   Saving this Data in csv file (Video Games.csv)
+## Steps of collecting this data :
+>
+   1.   Collecting Games Data for any category that've only one web page 
+   2.   Collecting Games Data for any category that've many web page
+   3.   Collecting Games Data for all Categories in the website
+   4.   Saving this Data in csv file (Video Games.csv)
  
-### Columns in csv file :
+## Columns in csv file :
 >
     1. Name : Video Game Name
     2. Studio : Studio that've designed the game
