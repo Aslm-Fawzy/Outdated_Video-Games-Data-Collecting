@@ -19,8 +19,8 @@ In website we've old video games and categories for video games as Xbox 360 , Pl
    7. Platform : Platform that run the game
    8. Released_on : Date of Releasing of Game 
    9. Dimensions : Width x Height of game 
-    10. Weight : Video Game Weight in lbs
-    11. Cover_image : Cover Image Link of the game (Image in website)
+   10. Weight : Video Game Weight in lbs
+   11. Cover_image : Cover Image Link of the game (Image in website)
 
 #### Note   : **Run This Project When You're Connected to Internet**  
 
